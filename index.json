@@ -1,0 +1,11 @@
+{
+  "org": "bitflags",
+  "repo": "bitflags",
+  "versions": [
+    {
+      "commit": "4ed9ffa949970239cd2d87c775e9fdcf9c438fb5",
+      "tag": "2.11.1",
+      "parsed_at": "2026-11-22T10:18:09.155572+00:00"
+    }
+  ]
+}

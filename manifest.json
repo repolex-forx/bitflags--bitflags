@@ -210,7 +210,9 @@
           "githubUrl": "https://github.com/google/zerocopy",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/4ed9ffa949970239cd2d87c775e9fdcf9c438fb5/chunk-001.nq.gz",
+      "dep": "dep/4ed9ffa949970239cd2d87c775e9fdcf9c438fb5.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

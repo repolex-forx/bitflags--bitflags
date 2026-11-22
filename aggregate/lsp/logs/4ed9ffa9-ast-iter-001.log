@@ -1,0 +1,7 @@
+[2026-11-22T10:12:40Z] === AST ITERATION 1 START | repo=bitflags/bitflags sha=4ed9ffa9 ===
+[2026-11-22T10:12:40Z] [iter=1] PHASE START: ast repo=bitflags/bitflags sha=4ed9ffa9
+[2026-11-22T10:12:40Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T10:12:51Z] [iter=1] AST chunks built count=1 triples=159070
+[2026-11-22T10:12:51Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4ed9ffa949970239cd2d87c775e9fdcf9c438fb5/.complete
+[2026-11-22T10:12:51Z] [iter=1] PHASE END: ast elapsed_s=11 elapsed_min=0.2
+[2026-11-22T10:12:51Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

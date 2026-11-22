@@ -129,6 +129,87 @@
       ],
       "ast": [
         "aggregate/ast/4ed9ffa949970239cd2d87c775e9fdcf9c438fb5/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4ed9ffa949970239cd2d87c775e9fdcf9c438fb5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "serde_core",
+          "ecosystem": "CARGO",
+          "version": "1.0.228",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "a866b336f14aa57a07f0d0be9f8762746e64ecb4",
+          "githubTag": "v1.0.228",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "arbitrary",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "rust-fuzz",
+          "githubRepo": "arbitrary",
+          "githubUrl": "https://github.com/rust-fuzz/arbitrary/",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "bytemuck",
+          "ecosystem": "CARGO",
+          "version": "1.12",
+          "githubOrg": "Lokathor",
+          "githubRepo": "bytemuck",
+          "githubUrl": "https://github.com/Lokathor/bytemuck",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "trybuild",
+          "ecosystem": "CARGO",
+          "version": "1.0.18",
+          "githubOrg": "dtolnay",
+          "githubRepo": "trybuild",
+          "githubCommit": "f139d95467d68af76b86e2737b31e9b20ec18026",
+          "githubTag": "1.0.18",
+          "githubUrl": "https://github.com/dtolnay/trybuild",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rustversion",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "dtolnay",
+          "githubRepo": "rustversion",
+          "githubUrl": "https://github.com/dtolnay/rustversion",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_test",
+          "ecosystem": "CARGO",
+          "version": "1.0.19",
+          "githubOrg": "serde-rs",
+          "githubRepo": "test",
+          "githubCommit": "b0d0f13ec1e9c2929d71e72b0a93fee095fef682",
+          "githubTag": "1.0.19",
+          "githubUrl": "https://github.com/serde-rs/test",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "zerocopy",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "google",
+          "githubRepo": "zerocopy",
+          "githubUrl": "https://github.com/google/zerocopy",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
